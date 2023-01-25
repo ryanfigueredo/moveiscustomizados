@@ -1,4 +1,4 @@
-﻿# Explorer Rocketseat - Turma 09 - Corrigindo bugs (01) 
+# Explorer Rocketseat 🚀- Turma 09 - Corrigindo bugs (01) 
 - Desafio corrigir a pagina de Móveis customizados no Stage 02 - Introdução ao HTML e CSS
 
 > Antes
@@ -9,3 +9,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1067170384178323557/1067806979562672179/image.png">
 
+> Primeiro codigo criado no codepen
+https://codepen.io/ryanfigueredo/pen/BaPxamW
+
+Instruido pelo Mayk Brito!
